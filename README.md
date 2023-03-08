@@ -1,4 +1,4 @@
-# Calc
+# Roar
 
 This is Lab 4 from an O'Reilly course called "[Git Troubleshooting](https://learning.oreilly.com/live-events/git-troubleshooting/0636920059739/0636920084518)".
 
